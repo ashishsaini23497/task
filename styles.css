@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .todo-container {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .todo-item {
+    margin-bottom: 10px;
+  }
+  
+  .todo-item input[type="checkbox"] {
+    margin-right: 10px;
+  }
